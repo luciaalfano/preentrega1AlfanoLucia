@@ -8,7 +8,7 @@ if (edad >= 18) {
 while (edad<=18){
     alert("Usted no posee permisos para ingresar");
     console.log ("Menor de edad")
-    {}
+}
 
 let ingresoMensual = Number(prompt("Por favor, indique su ingreso mensual neto"));
 let ingresoAnual = Number(prompt("Por favor, indique sus ingresos anuales"));
